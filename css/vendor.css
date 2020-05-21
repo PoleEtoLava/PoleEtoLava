@@ -60,7 +60,7 @@
 }
 
 .flexslider .slides:after {
-  content: "\0020";
+  content: "\0100";
   display: block;
   clear: both;
   visibility: hidden;
